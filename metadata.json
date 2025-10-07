@@ -1,0 +1,7 @@
+{
+  "name": "Creator's Suite",
+  "description": "An all-in-one toolkit for video content creators, featuring a script timer, a thumbnail A/B testing tool with AI feedback, and a drag-and-drop content calendar to streamline your production workflow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
